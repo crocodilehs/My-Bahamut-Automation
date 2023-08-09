@@ -1,6 +1,6 @@
 # My Bahamut Automation
 `巴哈姆特自動登入抽獎`
 
-Using: [Bahamut Automation](https://gitlab.com/JacobLinCool/bahamut-automation)
+Using: [Bahamut Automation](https://gitlab.com/JacobLinCool/bahamut-automation), [BA](https://github.com/chikenscrach/myba)
 
-- 我做了yml產生器的部分。
+- 我加了yml產生器的部分
